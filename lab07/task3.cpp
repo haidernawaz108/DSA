@@ -45,9 +45,7 @@ void printForward(Node* node){
     cout<<" NULL "<<endl;
 }
 int main()
-
 {
-
     Node * head = NULL;
     insertAtEnd(&head, 10);
     insertAtEnd(&head, 20);
